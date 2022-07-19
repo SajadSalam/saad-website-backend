@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "alryysyts",
+  "info": {
+    "singularName": "alryysyt",
+    "pluralName": "alryysyts",
+    "displayName": "الرئيسية"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

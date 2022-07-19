@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "trans",
+  "info": {
+    "singularName": "tran",
+    "pluralName": "trans",
+    "displayName": "tran"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "invest_number": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "send_name": {
+      "type": "string"
+    },
+    "trans": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
